@@ -1,0 +1,10 @@
+# s={22,222,2,2,"Hassan"}
+# s.add(555)
+# print(s,type(s))
+# print(len(s))
+# print(s.remove(22))
+# print(s,type(s))
+# s.pop(222)
+# print(s,type(s))
+# print(s.clear())
+# print(s)
