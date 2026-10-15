@@ -1,0 +1,10 @@
+p1="“Make a lot of"
+p2="money”, “buy now”"
+p3="“subscribe this”"
+p4="“click this”"
+
+message=input("Enter Your Comment: ")
+if((p1 in message) or (p2 in message) or (p3 in message) or (p4 in message)):
+    print("This comment is spam")
+else:
+    print("this is comment is not spam")
